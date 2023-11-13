@@ -1,0 +1,14 @@
+{
+  "type": "pandas.parquet_dataset.ParquetDataset",
+  "filepath": "/home/ubuntu/explore/data-sci/kedro/spaceflights/data/03_primary/model_input_table.pq",
+  "plot": null,
+  "image": null,
+  "tracking_data": null,
+  "run_command": "kedro run --to-outputs=model_input_table",
+  "preview": null,
+  "stats": {
+    "rows": 29768,
+    "columns": 27,
+    "file_size": 948746
+  }
+}
